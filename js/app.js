@@ -1,6 +1,6 @@
 var vector = {
   ttop : {
-    title : "The Constitution",
+    title : "Constitution",
     uris : [ 
       "https://www.washingtonpost.com/politics/what-is-the-emoluments-clause-does-it-apply-to-president-trump/2017/01/23/12aa7808-e185-11e6-a547-5fb9411d332c_story.html?utm_term=.2d4e3674204a" ]
     },
@@ -11,7 +11,7 @@ var vector = {
     ]
   },
   tbot : {
-    title : "Human Cost",
+    title : "Cost",
     uris : [ "http://thehill.com/blogs/pundits-blog/the-administration/315427-how-will-president-trump-handle-violence-against-women" ]
   },
   news : {

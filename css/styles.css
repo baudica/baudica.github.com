@@ -8,10 +8,10 @@ area:focus{
 }
 #txt {
     position: relative;
-    left: -51px;
-    top: -361px;
-    height: 80px;
-    width: 154px;
+    left:     -51px;
+    top:      -313px;
+    height:   80px;
+    width:    154px;
 }
 a:link {
     text-decoration: none;
