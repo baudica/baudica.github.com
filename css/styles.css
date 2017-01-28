@@ -1,0 +1,28 @@
+area:focus{
+    border: none;
+    outline-style: none; 
+    -moz-outline-style:none;  
+}
+.pad_image {
+    padding : 80px;
+}
+#txt {
+    position: relative;
+    left: -51px;
+    top: -361px;
+    height: 80px;
+    width: 154px;
+}
+a:link {
+    text-decoration: none;
+}
+p {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-variant: normal;
+    /*
+    font-weight: 500;
+    line-height: 26.4px;
+    */
+}

@@ -1,0 +1,32 @@
+var vector = {
+  ttop : {
+    title : "The Constitution of the United States of America",
+    uris : [ 
+      "https://www.washingtonpost.com/politics/what-is-the-emoluments-clause-does-it-apply-to-president-trump/2017/01/23/12aa7808-e185-11e6-a547-5fb9411d332c_story.html?utm_term=.2d4e3674204a" ]
+    },
+  tmid : {
+    title : "The Origins of Totalitarianism",
+    uris : [
+      "https://www.nytimes.com/2017/01/28/us/refugees-detained-at-us-airports-prompting-legal-challenges-to-trumps-immigration-order.html"
+    ]
+  },
+  tbot : {
+    title : "Domestic Consequences",
+    uris : [ "http://thehill.com/blogs/pundits-blog/the-administration/315427-how-will-president-trump-handle-violence-against-women" ]
+  },
+  news : {
+    
+  },
+  laugh : {
+  },
+  action : {
+  },
+  legal : {
+  }
+  organize : {
+  }
+}
+function omo (event) {
+console.debug ("mouse over " + event.target.id);
+}
+
